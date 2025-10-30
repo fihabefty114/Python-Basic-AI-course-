@@ -1,4 +1,4 @@
-# Python-Basic-AI-course-
+# Python-Basic-AI-course
 <br>
 Artificial Intelligent course (AIUB).
 <br>
